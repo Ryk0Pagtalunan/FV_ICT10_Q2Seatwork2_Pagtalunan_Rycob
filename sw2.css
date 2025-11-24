@@ -1,0 +1,97 @@
+.container1{
+	background-color: rgb(167, 2, 2);
+	width: 500px;
+	padding: 10px;
+	border: 5px solid rgb(214, 183, 7);
+	margin: 25px;
+	border-style: ridge;
+}
+.container2{
+	background-color: black;
+	width: 350px;
+	padding: 10px;
+	border: 2.5px solid white;
+	margin: 25px;
+	border-style: ridge;
+}
+.gradenames{
+	color: rgba(245, 245, 245, 0.849);
+}
+.outputs{
+	color: rgba(245, 245, 245, 0.849);
+}
+body{
+    background-image: url(https://images6.alphacoders.com/870/thumb-1920-870130.png);
+    background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+#sci{
+	text-align: center;
+	font-weight: bold;
+	color: black;
+	width: 75px;
+	background-image: radial-gradient(blue, red);
+	border: black;
+}
+#math{
+	text-align: center;
+	font-weight: bold;
+	color: black;
+	width: 75px;
+	background-image: radial-gradient(blue, red);
+	border: black;
+}
+#eng{
+	text-align: center;
+	font-weight: bold;
+	color: black;
+	width: 75px;
+	background-image: radial-gradient(blue, red);
+	border: black;
+}
+#fil{
+	text-align: center;
+	font-weight: bold;
+	color: black;
+	width: 75px;
+	background-image: radial-gradient(blue, red);
+	border: black;
+}
+#pe{
+	text-align: center;
+	font-weight: bold;
+	color: black;
+	width: 75px;
+	background-image: radial-gradient(blue, red);
+	border: black;
+}
+#ICT{
+	text-align: center;
+	font-weight: bold;
+	color: black;
+	width: 75px;
+	background-image: radial-gradient(blue, red);
+	border: black;
+}
+#fname{
+	text-align: center;
+	font-weight: bold;
+	color: black;
+	background-image: linear-gradient(rgb(234, 190, 32), rgb(141, 9, 9));
+	border: black;
+}
+#lname{
+	text-align: center;
+	font-weight: bold;
+	color: black;
+	background-image: linear-gradient(rgb(234, 190, 32), rgb(141, 9, 9));
+	border: black;
+}
+#calgwa{
+	text-align: center;
+	color: black;
+	background-image: radial-gradient(rgb(234, 190, 32), rgb(141, 9, 9));
+	border: black;
+}
+
